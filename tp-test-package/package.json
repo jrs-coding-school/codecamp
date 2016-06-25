@@ -1,0 +1,11 @@
+{
+  "name": "tpp",
+  "version": "1.0.2",
+  "description": "A minimal testing library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom",
+  "license": "MIT"
+}

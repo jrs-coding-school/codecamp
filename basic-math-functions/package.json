@@ -1,0 +1,11 @@
+{
+  "name": "basic-math-fn",
+  "version": "1.0.1",
+  "description": "A module of basic math functions, add, subtract, multiply, and divide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom",
+  "license": "ISC"
+}
