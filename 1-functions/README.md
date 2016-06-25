@@ -1,6 +1,10 @@
 # Functions
 
-Functions are the building blocks in javascript, this is the most important concept to understand.
+Functions are the core building blocks in javascript.
+
+Functions allow you to name a block of statements or instructions and all them
+again and again in your program.  Functions also enable you to pass them some
+arguments or inputs to process and will return an output as a result.
 
 ```
 Input -> Processing -> Output
