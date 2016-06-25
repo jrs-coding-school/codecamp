@@ -4,7 +4,7 @@ module.exports = content => `
 <!doctype html>
 <html>
   <head>
-    <title>CodeCamp</title>
+    <title>JRS CodeCamp</title>
     <link rel="stylesheet" href="/node_modules/github-markdown-css/github-markdown.css">
     <style>
       .markdown-body {
