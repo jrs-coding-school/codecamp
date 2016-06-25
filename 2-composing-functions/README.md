@@ -1,16 +1,16 @@
 # Composing Functions
 
 Creating a functions and calling them are great, but sometimes you want to
-nest functions or compose functions together like lego to create more complex
-results.
+nest functions or compose functions together like legos.
 
-The easiest way to demonstrate this concept is using math. For Example, you
-may want to add a number to the result of the difference of another equation.
+The ability to nest functions together gives you the power to combine simple functions
+and create complex functions.
 
-You also may have more complicated equations that you want to perform, but each
-complicated equation is built on a group of simple equations.
+The easiest way to demonstrate this concept is using algebra math.
 
-In basic Math you may see equations like:
+For Example:
+
+In basic algebra you may see equations like:
 
 ```
 3q - 2 = 4
@@ -45,15 +45,14 @@ which is the right number.
 calc(1) // wrong
 calc(2) // right
 ```
-3 + 2t = 9
-f/4 - 1 = 3
 
-
-[Live Example](http://bl.ocks.org/twilson63/raw/630a2dc301e980f84e6fb20827e94fc7)
+[Live Example](/labs/2-composing-functions/demo)
 
 ## Exercises
 
-- [Exercise 1](http://bl.ocks.org/twilson63/raw/66bcfb3a722916eaa22730c9863612f5)
-- [Exercise 2](http://bl.ocks.org/twilson63/raw/c98f67ae79da5469b7bec0c813f8bc37)
-- [Exercise 3](http://bl.ocks.org/twilson63/raw/d52a28c4b723556ef7cd2e1e1c104d04)
-- [Exercise 4](http://bl.ocks.org/twilson63/raw/2ddcbb0a9047ebed3540cf2e7770b0ee)
+- [Exercise 1](/labs/2-composing-functions/1)
+- [Exercise 2](/labs/2-composing-functions/2)
+- [Exercise 3](/labs/2-composing-functions/3)
+- [Exercise 4](/labs/2-composing-functions/4)
+
+[Home](/) | [Prev](/lessons/1-functions) | [Next](/lessons/3)
