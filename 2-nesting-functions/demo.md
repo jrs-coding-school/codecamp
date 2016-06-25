@@ -1,5 +1,3 @@
-<script src="https://embed.tonicdev.com" data-element-id="my-element"></script>
-
 ### Demo Lesson 2 - Composing Functions
 
 Using our add, subtract, multiply, divide, equals functions create these algerbra equations in code.
@@ -12,6 +10,7 @@ or
 6 = 2 * n + 4
 ```
 
+<script src="https://embed.tonicdev.com" data-element-id="my-element"></script>
 <div id="my-element">
 // declare lib functions
 const { equals } = require("notebook")("twilson63/tpp/1.0.1")

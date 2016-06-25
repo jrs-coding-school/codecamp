@@ -37,4 +37,4 @@ add(1,2)
 - [Exercise 2](/labs/1-functions/2)
 - [Exercise 3](/labs/1-functions/3)
 
-[Home](/) | [Next](/lessons/2-composing-functions)
+[Home](/) | [Next](/lessons/2-nesting-functions)

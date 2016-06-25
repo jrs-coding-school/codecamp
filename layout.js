@@ -5,7 +5,7 @@ module.exports = content => `
 <html>
   <head>
     <title>JRS CodeCamp</title>
-    <link rel="stylesheet" href="/node_modules/github-markdown-css/github-markdown.css">
+    <link rel="stylesheet" href="/github-markdown.css">
     <style>
       .markdown-body {
         box-sizing: border-box;

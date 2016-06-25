@@ -20,6 +20,7 @@
   "homepage": "https://github.com/jrs-innovation-center/codecamp#readme",
   "dependencies": {
     "ecstatic": "^1.4.1",
+    "filed": "^0.1.0",
     "github-markdown-css": "^2.3.0",
     "http-hash-router": "^1.1.0",
     "marked": "^0.3.5",
