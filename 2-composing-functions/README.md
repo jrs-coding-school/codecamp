@@ -45,12 +45,15 @@ which is the right number.
 calc(1) // wrong
 calc(2) // right
 ```
+3 + 2t = 9
+f/4 - 1 = 3
+
 
 [Live Example](http://bl.ocks.org/twilson63/raw/630a2dc301e980f84e6fb20827e94fc7)
 
 ## Exercises
 
-- [Exercise 1](http://bl.ocks.org/twilson63/raw/)
-- [Exercise 2](http://bl.ocks.org/twilson63/raw/)
-- [Exercise 3](http://bl.ocks.org/twilson63/raw/)
-- [Exercise 4](http://bl.ocks.org/twilson63/raw/)
+- [Exercise 1](http://bl.ocks.org/twilson63/raw/66bcfb3a722916eaa22730c9863612f5)
+- [Exercise 2](http://bl.ocks.org/twilson63/raw/c98f67ae79da5469b7bec0c813f8bc37)
+- [Exercise 3](http://bl.ocks.org/twilson63/raw/d52a28c4b723556ef7cd2e1e1c104d04)
+- [Exercise 4](http://bl.ocks.org/twilson63/raw/2ddcbb0a9047ebed3540cf2e7770b0ee)
