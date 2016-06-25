@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "12 week immersive bootcamp to learn to code",
   "main": "server.js",
-  "directories": {
-    "example": "example"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"

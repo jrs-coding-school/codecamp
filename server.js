@@ -33,4 +33,4 @@ const server = http.createServer( (req, res) => {
   router(req,res, {}, err => console.log(err))
 })
 
-server.listen(3000)
+server.listen(process.env.PORT || 3000)
