@@ -2,9 +2,11 @@
 
 Functions are the building blocks in javascript, this is the most important concept to understand.
 
+```
 Input -> Processing -> Output
  ^                        |
  |------------------------|
+```
 
 All programs have this flow, some input is gathered and processed and some output is returned. In order to manage this flow with JavaScript we use functions.
 
